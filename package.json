@@ -1,8 +1,8 @@
 {
-  "name": "victor-hugo",
+  "name": "Ernesto Coffe",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
-  "repository": "netlify/victor-hugo",
+  "description": "Ernesto Coffe is the best coffe mexican tradicional",
+  "repository": "ernesto-coffe",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",
